@@ -18,21 +18,22 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="Sublime Text" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="sqlite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
-<img align="left" alt="macos" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
-<img align="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img align="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
-<img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
-<img align="left" alt="spring-boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Sublime Text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="sqlite" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="aws" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
+<img align="left" alt="macos" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
+<img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="vim" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
+<img align="left" alt="flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+<img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
+<img align="left" alt="spring-boot" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
 
 <br />
 <br />
