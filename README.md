@@ -26,11 +26,12 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="sqlite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
 <img align="left" alt="macos" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
-<img align="left" alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<img align="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+<img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
 
 <br />
 <br />
