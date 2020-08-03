@@ -18,7 +18,7 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="Sublime Text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+<img align="left" alt="Sublime Text" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
