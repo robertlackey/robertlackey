@@ -20,13 +20,12 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 
 <img align="left" alt="Sublime Text" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="sqlite" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="Ansible" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="aws" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
 <img align="left" alt="macos" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
