@@ -18,21 +18,20 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="Sublime Text" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="sqlite" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="macos" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
-<img align="left" alt="terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<img align="left" alt="Sublime Text" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="sqlite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="macos" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
+<img align="left" alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
-<br />
 <br />
 <br />
 
