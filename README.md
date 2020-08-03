@@ -1,4 +1,4 @@
-### Hello, everybody! <img src="https://raw.githubusercontent.com/robertlackey/robertlackey/master/wave.gif" width="30px">
+### Hello, everybody! 👋
 
 My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸, and mentor with a passion for developing efficient and secure software applications that enable businesses run better! 
 - 🐉 CTF player with Pro Hacker rank on Hack The Box
@@ -32,6 +32,7 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 <img align="left" alt="macos" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
 <img align="left" alt="terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
+<br />
 <br />
 <br />
 
