@@ -19,8 +19,8 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 ### 🔧 Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
