@@ -31,7 +31,7 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 <img align="left" alt="macos" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
 <img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 <img align="left" alt="vim" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
-<img align="left" alt="flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+<img align="left" alt="flask" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
 <img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
 <img align="left" alt="spring-boot" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
 
