@@ -3,15 +3,14 @@
 My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸, and mentor with a passion for developing efficient and secure software applications that enable businesses run better! 
 - 🐉 CTF player with Pro Hacker rank on Hack The Box
 - 📚 I’m currently learning security software assessments to improve my secure coding skills
+- ☠️ Currently pursuing the OSWE certification
 - ⚡ Outside of cybersecurity, I enjoy martial arts, fitness, and hiking
-- <img align="left" alt="hacktoberfest" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hacktoberfest/hacktoberfest.png" />I have a goal to contribute to some open source projects in 2021
 
 
 ### Connect with me:
 
 [<img align="left" alt="robertlackey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="robertlackey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lackssecurity.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 <br />
