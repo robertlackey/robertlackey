@@ -55,5 +55,5 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 </a>
 
 [website]: https://lackssecurity.com
-[twitter]: https://twitter.com/_robertlackey
+[twitter]: https://twitter.com/r0bertlackey
 [linkedin]: https://linkedin.com/in/lackeyrobert
