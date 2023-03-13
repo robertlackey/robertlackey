@@ -50,7 +50,7 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
 <a href="https://github.com/robertlackey/secbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertlackey&repo=secbook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/robertlackey/cherrpyauth">
+<a href="https://github.com/robertlackey/cherrypyauth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertlackey&repo=cherrypyauth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
