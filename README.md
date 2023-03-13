@@ -3,7 +3,7 @@
 My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸, and mentor with a passion for developing efficient and secure software applications that enable businesses run better! 
 - 🐉 CTF player with Pro Hacker rank on Hack The Box
 - 📚 Currently learning security software assessments to improve my secure coding skills
-- ☠️ Currently pursuing the OSWE certification
+- ☠️ Recently completed the OSWE certification
 - ⚡ Outside of cybersecurity, I enjoy martial arts, fitness, and hiking
 
 
@@ -45,7 +45,10 @@ My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertlackey&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/robertlackey/robertlackey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertlackey&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertlackey&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Robert Lackey GitHub Stats" />
+</a>
+<a href="https://github.com/robertlackey/secbook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertlackey&repo=secbook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/robertlackey/cherrpyauth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertlackey&repo=cherrypyauth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
