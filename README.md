@@ -1,6 +1,6 @@
 ### Hello, everybody! <img src="https://raw.githubusercontent.com/robertlackey/robertlackey/master/wave.gif" width="30px">
 
-My name is Robert Lackey and I'm an AppSec Engineer, military veteran, and mentor with a passion for developing efficient and secure software applications that enable businesses run better! 
+My name is Robert Lackey and I'm an AppSec engineer, military veteran, and mentor with a passion for developing efficient and secure software applications that enable businesses run better! 
 - 🐉 CTF player with Pro Hacker rank on Hack The Box
 - 📚 Currently learning security software assessments to improve my secure coding skills
 - ☠️ Recently completed the AWAE training course
