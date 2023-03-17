@@ -3,7 +3,7 @@
 My name is Robert Lackey and I'm a security developer, military veteran 🇺🇸, and mentor with a passion for developing efficient and secure software applications that enable businesses run better! 
 - 🐉 CTF player with Pro Hacker rank on Hack The Box
 - 📚 Currently learning security software assessments to improve my secure coding skills
-- ☠️ Recently completed the OSWE certification
+- ☠️ Recently completed the AWAE training course
 - ⚡ Outside of cybersecurity, I enjoy martial arts, fitness, and hiking
 
 
