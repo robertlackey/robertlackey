@@ -5,7 +5,7 @@ My name is Robert Lackey - Product Security leader, military veteran, and mentor
 - 🛡️ Leading product security: threat modeling, AppSec programs, and cross-team security advisory
 - 🤖 Exploring AI Red Teaming and the security implications of generative AI
 - 🎓 Pursuing a Master of Science in Computer Science (MSCS)
-- 🐉 CTF player on Hack The Box | OSWE certified (AWAE graduate)
+- 🐉 CTF player on Hack The Box | CWEE Certified
 - ⚡ Outside of security: martial arts, fitness, and hiking
 
 
