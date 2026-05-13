@@ -37,12 +37,6 @@ My name is Robert Lackey - Product Security leader, military veteran, and mentor
 <br />
 
 
-<a href="https://github.com/robertlackey/secbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertlackey&repo=secbook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/robertlackey/cherrypyauth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertlackey&repo=cherrypyauth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 [twitter]: https://twitter.com/r0bertlackey
 [linkedin]: https://linkedin.com/in/lackeyrobert
